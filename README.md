@@ -1,4 +1,4 @@
-# 👋 Hi, Avneet KAur
+# 👋 Hi, Avneet Kaur
 INSPIRE TO DATA ANALYST AND SOFTWARE DEVELOPMENT
 
 <p align="center">
