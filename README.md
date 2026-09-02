@@ -35,28 +35,6 @@ INSPIRE TO DATA ANALYST AND SOFTWARE DEVELOPMENT
 # 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=avneet323356&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" 
-    height="180"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=avneet323356&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF" 
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneet323356&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" 
-    height="170"
-  />
-</p>
-
-
-# 📊 GitHub Stats
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=avneet32356&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"
     height="180"
