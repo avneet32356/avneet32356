@@ -34,17 +34,30 @@ INSPIRE TO DATA ANALYST AND SOFTWARE DEVELOPMENT
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avneet32356&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=avneet32356&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" 
+    height="180"
+  />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avneet32356&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" height="170"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=avneet32356&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneet32356&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneet32356&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" 
+    height="170"
+  />
 </p>
 
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avneet32356&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=avneet32356&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&custom_title=Avneet's%20Contribution%20Graph" 
+  />
 </p>
 
 
